@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;3.spring-cloud-config-server&apos;" deleteContents="true" description="Delete resource &apos;3.spring-cloud-config-server&apos;" element1="/3.spring-cloud-config-server" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1623327006758"/>&#x0A;<refactoring comment="Delete resource &apos;2.limits-service&apos;" deleteContents="true" description="Delete resource &apos;2.limits-service&apos;" element1="/2.limits-service" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1623327016007"/>
+</session>
